@@ -11,6 +11,15 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+**Domain:** AI/systems projects built by top, competitive students. The scope of this is limited to:
+
+- Devpost AI hackathon winners
+- Capstone/Research from Stanford, MIT, and Waterloo
+- Hacker News Show posts by students
+- Neo Scholars project writeups
+
+**Why is this knowledge is valuable and hard to find through official channels:** There are many different places, spaces, and opportunities where students are building. From school to hackathons to specialized cohorts, publicized on platforms from GithHub to Medium to X. The information student are looking to explore or ground themselves in is scatterd. Bringing these sources together creates a cohesive map for students to study what ambitious builders are creating, understand what problems they find worth solving, and learn from the tools, architectures, and ideas behind their projects. This is a deep dive of the student frontier in AI and systems.
+
 ---
 
 ## Documents
