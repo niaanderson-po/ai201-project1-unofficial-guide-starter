@@ -27,7 +27,7 @@ I love that the information I found was extremly valuable, however, it being sca
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
 | 1 | CodeSignal | Breakdown of what each CodeSignal test module/question covers | [General-Coding-Skills-Evaluation-Framework](https://github.com/Leader-board/OA-and-Interviews/blob/main/media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf) |
-| 2 | | | |
+| 2 | CodeSignal | Explanation of how CodeSignal test scores are calculated | [Understanding Assessment Score](https://support.codesignal.com/hc/en-us/articles/13261190299287-Understanding-Assessment-Score) |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
