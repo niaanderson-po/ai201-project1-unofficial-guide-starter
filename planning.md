@@ -35,7 +35,7 @@ I love that the information I found was extremly valuable, however, it being sca
 | 7 | USACO Competitors | Competitive programmers' advice on practice and reading solutions | [How to Practice](https://usaco.guide/general/practicing?lang=py)|
 | 8 | USACO Competitor Benjamin Qi | Checklist of what to do when your code is wrong | [How to Debug](https://usaco.guide/general/debugging-checklist?lang=java) |
 | 9 | USACO Competitor Nathan Chen | Advice on time management and problem ordering during contests | [Contest Strategy](https://usaco.guide/general/contest-strategy?lang=py) |
-| 10 | | | |
+| 10 | Sebastian Capellan | LeetCode problem and tutorial list for GCA prep | [Codesignal Prep Checklist: Problem List](https://shadowed-chips-fc9.notion.site/Codesignal-Prep-Checklist-248ea1c6225980fc88f4d1017267cb07)|
 
 ---
 
