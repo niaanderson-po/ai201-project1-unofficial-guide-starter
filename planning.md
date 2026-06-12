@@ -31,7 +31,7 @@ I love that the information I found was extremly valuable, however, it being sca
 | 3 | CodeSignal | What's allowed during the GCA and interface walkthough | [General Coding Assessment (GCA) Rules and Setup](https://support.codesignal.com/hc/en-us/articles/360051960134-General-Coding-Assessment-GCA-Rules-and-Setup) |
 | 4 | Leadeboard OA-and-Interviews Guide | Sharing, reusing, and timing your GCA score across companies | [Online Assessments: Codesignal](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md#codesignal) |
 | 5 | u/TeamCodeSignal | CodeSignal's brief pre-test tips posted on Reddit | [Taking the CodeSignal GCA Soon? Read This First!](https://www.reddit.com/user/TeamCodeSignal/comments/1iovhvj/taking_the_codesignal_gca_soon_read_this_first/) |
-| 6 | | | |
+| 6 | r/cscareerquestions Siddhant1999 | Student's 9 personal tips for scoring high on the GCA | [CodeSignal Tips from someone with 844 & 843](https://www.reddit.com/r/cscareerquestions/comments/iqy99x/codesignal_tips_from_someone_with_844_843/) |
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
