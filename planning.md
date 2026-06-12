@@ -11,15 +11,13 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-**Domain:** AI/systems projects built by top, competitive students. The scope of this is limited to:
+**Domain:** 
+Practical Code Signal General Coding Assessment Prep For First Generation Interdisciplinary Pomona Students
 
-- Devpost AI hackathon winners
-- Capstone/Research from Stanford, MIT, and Waterloo
-- Hacker News Show posts by students
-- Neo Scholars project writeups
+**Why this knowledge is valuable and hard to find through official channels:** 
+When I learned I had to take the GCA for internships and more, I was quite lost on what it was let alone how to approach it. There was initial information Code Signal's offical website was able to provide which was helpful. I found though that despite practice, I was unable to achieve a score I was satisfied with. Through more thorough research I found alot of helpful tips as well as further details on the construction and structure of the assesment. This information made the GCA feel much less daunting and gave me a better idea on how to prep for success. 
 
-**Why is this knowledge is valuable and hard to find through official channels:** There are many different places, spaces, and opportunities where students are building. From school to hackathons to specialized cohorts, publicized on platforms from GithHub to Medium to X. The information student are looking to explore or ground themselves in is scatterd. Bringing these sources together creates a cohesive map for students to study what ambitious builders are creating, understand what problems they find worth solving, and learn from the tools, architectures, and ideas behind their projects. This is a deep dive of the student frontier in AI and systems.
-
+I love that the information I found was extremly valuable, however, it being scattered between Reddit, GitHub, Notion, and more made it hard to keep organized and difficult to quickly refrence. This challenge, though, is what makes this topic perfect for this project. 
 ---
 
 ## Documents
