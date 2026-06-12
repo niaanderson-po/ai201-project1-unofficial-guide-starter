@@ -28,7 +28,7 @@ I love that the information I found was extremly valuable, however, it being sca
 |---|--------|-------------|-----------------|
 | 1 | CodeSignal | Breakdown of what each CodeSignal test module/question covers | [General-Coding-Skills-Evaluation-Framework](https://github.com/Leader-board/OA-and-Interviews/blob/main/media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf) |
 | 2 | CodeSignal | Explanation of how CodeSignal test scores are calculated | [Understanding Assessment Score](https://support.codesignal.com/hc/en-us/articles/13261190299287-Understanding-Assessment-Score) |
-| 3 | | | |
+| 3 | CodeSignal | What's allowed during the GCA and interface walkthough | [General Coding Assessment (GCA) Rules and Setup](https://support.codesignal.com/hc/en-us/articles/360051960134-General-Coding-Assessment-GCA-Rules-and-Setup) |
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
