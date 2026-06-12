@@ -32,9 +32,9 @@ I love that the information I found was extremly valuable, however, it being sca
 | 4 | Leadeboard OA-and-Interviews Guide | Sharing, reusing, and timing your GCA score across companies | [Online Assessments: Codesignal](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md#codesignal) |
 | 5 | u/TeamCodeSignal | CodeSignal's brief pre-test tips posted on Reddit | [Taking the CodeSignal GCA Soon? Read This First!](https://www.reddit.com/user/TeamCodeSignal/comments/1iovhvj/taking_the_codesignal_gca_soon_read_this_first/) |
 | 6 | r/cscareerquestions Siddhant1999 | Student's 9 personal tips for scoring high on the GCA | [CodeSignal Tips from someone with 844 & 843](https://www.reddit.com/r/cscareerquestions/comments/iqy99x/codesignal_tips_from_someone_with_844_843/) |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
+| 7 | USACO Competitors | Competitive programmers' advice on practice and reading solutions | [How to Practice](https://usaco.guide/general/practicing?lang=py)|
+| 8 | USACO Competitor Benjamin Qi | Checklist of what to do when your code is wrong | [How to Debug](https://usaco.guide/general/debugging-checklist?lang=java) |
+| 9 | USACO Competitor Nathan Chen | Advice on time management and problem ordering during contests | [Contest Strategy](https://usaco.guide/general/contest-strategy?lang=py) |
 | 10 | | | |
 
 ---
