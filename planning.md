@@ -46,11 +46,11 @@ I love that the information I found was extremly valuable, however, it being sca
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 225 tokens
 
-**Overlap:**
+**Overlap:** 25 tokens
 
-**Reasoning:**
+**Reasoning:** The embedded model I will be using is all-MiniLM-L6-v2 via sentence-transformers. This models token limit is 256. Anything longer will be truncated. With this, I made my chunck size smaller than 256 (225) to leave room to include a heading into the chunck for topic context. My overlap is 25 tokens because that is about 10% of the chunck size (common practice). Also since I'm mostly splitting on headings and bullet points, the chunks usually break at natural stopping points.
 
 ---
 
@@ -62,11 +62,11 @@ I love that the information I found was extremly valuable, however, it being sca
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Top-k:**
+**Top-k:** 5
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** MiniLM caps at 256 tokens, which forced my chunk ceiling down from 750 to ~220. If cost weren't a constraint I'd use a model with a larger token limit so my chunks could align with full heading sections in my lengthy sources instead of being sub-split.
 
 ---
 
