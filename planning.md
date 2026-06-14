@@ -107,6 +107,8 @@ I love that the information I found was extremly valuable, however, it being sca
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+![RAG pipeline diagram](assets/pipeline-diagram.png)
+
 ---
 
 ## AI Tool Plan
