@@ -93,9 +93,9 @@ I love that the information I found was extremly valuable, however, it being sca
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Some of my documents have outdated information regarding scoring, making it inconsitent/in conflict with some of my more recent sources. This is because CodeSignal has updated their scoring framwork from a 300-850 scale to a 200-600 scale spring 2023. I kept the sources dating past 2023 anyway because the tips and advice in them beyond scoring are still really useful. The risk is that my system could retrieve an outdated chunk and present old information as if it were current, giving the user a confidently wrong answer.
 
-2.
+2. Because my embedding model limits me to small (~225 token) chunks, a single complete answer can get split across multiple chunks. If retrieval only pulls one fragment into the top-k, the model may give an incomplete or inaccurate answer even though the full information exists in my documents.
 
 ---
 
