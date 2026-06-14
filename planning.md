@@ -79,11 +79,11 @@ I love that the information I found was extremly valuable, however, it being sca
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | How many questions are on the GCA? | 4 |
+| 2 | How much time is given to complete the GCA? | 70 minutes |
+| 3 | What is the max I can score on the GCA? | 600 |
+| 4 | Can you run your code for each question before submitting a finale answer? | Yes |
+| 5 | Will the number of times you run your code impact your score? | No |
 
 ---
 
