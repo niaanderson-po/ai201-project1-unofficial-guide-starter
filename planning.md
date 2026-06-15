@@ -123,8 +123,30 @@ I love that the information I found was extremly valuable, however, it being sca
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** 
+Ingestion:
+     Input - Architecture diagram in assets, files in documents, pre-cleaned constraint
+     Output - load_document() that converts non .md files to .md the uses Python open() to read all
+     Verification - run load_document() on a non .md file to check conversion and readability
+
+Chuncking: 
+     Input - Chunking Strategy section (recursive split, 225 tokens, 25 overlap, heading included)
+     Output - chunk_text() with my specified chunk size and overlap
+     Verification - run chunk_text() on a .md file to check that no chunk exceeds 225 tokens when tokenized by MiniLM, and has a heading
 
 **Milestone 4 — Embedding and retrieval:**
+Embedding:
+     Input - chunk_text() output, MiniLM, ChromaDB
+     Output - embed_and_store() that embed chunks with sentence-transformers and write vectors + metadata to ChromaDB
+     Verification - run embed_and_store() on chunks and check that ea one has a vector in ChromaDB
+
+Retrival:
+     Input - Retrieval Approach section (MiniLM, top-k=5), ChromaDB
+     Output - retrieve(query, k=5) that embeds a question with the same MiniLM model and returns the top 5 most similar chunks from ChromaDB
+     Verification - run retrieve() on a question I know the answer to (ie "How is the GCA scored?") and check that the chunk containing the answer is in the top 5
 
 **Milestone 5 — Generation and interface:**
+Generation:
+     Input - Groq, retrieve() output, cite source requirment
+     Output - generate_answer(query) that retrieves top-k, builds a prompt with the chunks and their source labels, calls Groq, and returns an answer
+     Verification - use 5 evaluation questions to check answers match expected values and cite source
